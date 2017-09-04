@@ -1,0 +1,54 @@
+﻿body {
+   background-color:white;
+    font-family:'Footlight MT';
+}
+.HeaderStyle {
+    background-color: whitesmoke;
+    font-family:Calibri;
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    vertical-align: 10px;
+    width: 100px;
+    height: 150px;
+}
+ .ImageLogoStyle {
+    background-color: lightcoral;
+    width: 200px;
+    height:150px;    
+}
+.LeftStyle {
+    background-color: #FFCC99;
+    font-family: Calibri;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+    height: 400px;
+    width: 100px;
+}
+
+.MainContentStyle {
+    background-color:#FFFFCC;
+    font-family: Calibri;
+    font-size: large;
+    text-align:left;
+    height: 400px;
+    width: 800px;
+    vertical-align: 50px;
+    margin-left: 10px;
+}
+
+.BottomStyle {
+    background-color:linen;
+    font-family: 'Footlight MT';
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    width: 1000px;
+    text-align: center;
+}
+
+.MasterPageTableStyle {
+    width: 100%;
+    height: 100%;
+}
